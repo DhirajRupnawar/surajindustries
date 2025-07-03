@@ -82,12 +82,12 @@ const HeroSection = () => {
                 <h1 className={`text-xl font-bold transition-colors ${
                   scrolled ? 'text-gray-900' : 'text-white'
                 }`}>
-                  PremiumFRP
+                  SURAJ INDUSTRIES
                 </h1>
                 <p className={`text-sm transition-colors ${
                   scrolled ? 'text-gray-600' : 'text-white/80'
                 }`}>
-                  Pune Solutions
+                  FRP Solutions
                 </p>
               </div>
             </div>
