@@ -88,7 +88,7 @@ const Footer = () => {
               © 2025 Suraj Industries. All Rights Reserved.
             </div>
             <div className="text-gray-500 text-sm">
-              Developed & Handled by{' '}
+              Developed & Handled By{' '}
               <span className="font-medium text-gray-700">Dhiraj Rupnawar</span>
             </div>
           </div>

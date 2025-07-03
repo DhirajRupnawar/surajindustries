@@ -133,7 +133,7 @@ const HeroSection = () => {
                   scrolled ? 'text-gray-600' : 'text-white/80'
                 }`}>
                   <MapPin className="w-4 h-4" />
-                  <span>Warje Malwadi, Pune</span>
+                  <span>Shinde wadi, Pune</span>
                 </div>
                 <div className={`flex items-center space-x-1 ${
                   scrolled ? 'text-gray-600' : 'text-white/80'
